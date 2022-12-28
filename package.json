@@ -1,0 +1,24 @@
+{
+  "name": "tailwind_learning_sumitra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "tailwindcss -i ./src/tailwind.css -o ./output/output.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumitra-das-guptta/tailwind_learning_sumitra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumitra-das-guptta/tailwind_learning_sumitra/issues"
+  },
+  "homepage": "https://github.com/Sumitra-das-guptta/tailwind_learning_sumitra#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
